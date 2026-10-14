@@ -439,7 +439,6 @@
             <label for="giftCardPhoto" style="margin-top:14px;">Or attach a photo of the card</label>
             <input type="file" id="giftCardPhoto" name="attachment" accept="image/*">
 
-            <p class="form-note">Prefer to pay in person? You can also bring a physical gift card or pay the deposit by card at your appointment — just note that below.</p>
           </div>
 
           <p class="form-note" style="color:var(--gold-bright);">Your appointment stays pending until we verify your deposit and approve it — you'll get an email either way.</p>
