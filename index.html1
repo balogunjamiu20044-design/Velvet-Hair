@@ -326,7 +326,7 @@
           <h2>Reserve your appointment</h2>
           <p>Pick a service, choose a date that works for you, and pay a small deposit to activate the slot — you'll get an email confirming everything.</p>
           <div class="info-line"><div class="dot"></div><div><strong>Open Sunday – Saturday</strong><span>We've got you covered every day!</span></div></div>
-          <div class="info-line"><div class="dot"></div><div><strong>30% deposit activates your slot</strong><span>Send an Amazon gift card straight to our email, or pay with a physical card at your appointment</span></div></div>
+          <div class="info-line"><div class="dot"></div><div><strong>30% deposit activates your slot</strong><span>Send an Apple gift card straight to our email, or pay with a physical card at your appointment</span></div></div>
           <div class="info-line"><div class="dot"></div><div><strong>Every booking is approved manually</strong><span>We verify your deposit and confirm by email — nothing is charged automatically</span></div></div>
           <div class="info-line"><div class="dot"></div><div><strong>arielgrind429@gmail.com</strong><span>Reach out with questions any time</span></div></div>
         </div>
@@ -430,11 +430,11 @@
           <div class="deposit-box" id="depositBox">
             <div class="deposit-label">DEPOSIT TO ACTIVATE THIS APPOINTMENT</div>
             <div class="deposit-amount" id="depositAmount">Select a service above to see your deposit</div>
-            <a href="https://www.amazon.com/gift-cards" target="_blank" rel="noopener" class="btn btn-gold">Buy &amp; send an Amazon Gift Card</a>
-            <p class="form-note">On Amazon, choose <strong style="color:var(--gold-bright); font-weight:500;">"Email" delivery</strong> and enter <strong style="color:var(--gold-bright); font-weight:500;">arielgrind429@gmail.com</strong> as the recipient for the deposit amount above — Amazon sends it straight to our inbox automatically, no extra step needed.</p>
+            <a href="https://www.apple.com/shop/buy-giftcard" target="_blank" rel="noopener" class="btn btn-gold">Buy &amp; send an Apple Gift Card</a>
+            <p class="form-note">On Apple's site, choose <strong style="color:var(--gold-bright); font-weight:500;">"Email" delivery</strong> and enter <strong style="color:var(--gold-bright); font-weight:500;">arielgrind429@gmail.com</strong> as the recipient for the deposit amount above — Apple sends it straight to our inbox automatically, no extra step needed.</p>
 
-            <label for="giftCardCode" style="margin-top:14px;">Already sent it? Paste the gift card code here too</label>
-            <input type="text" id="giftCardCode" name="Amazon_Gift_Card_Code" placeholder="e.g. XXXX-XXXXXX-XXXX">
+            <label for="giftCardCode" style="margin-top:14px;">Already sent it? Paste the Apple gift card code here too</label>
+            <input type="text" id="giftCardCode" name="Apple_Gift_Card_Code" placeholder="e.g. XXXX-XXXXXX-XXXX">
 
             <label for="giftCardPhoto" style="margin-top:14px;">Or attach a photo of the card</label>
             <input type="file" id="giftCardPhoto" name="attachment" accept="image/*">
